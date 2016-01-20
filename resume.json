@@ -1,62 +1,53 @@
 {
-	"name" : "Homer Jay Simpson",
-	"contact" : "chunkylover53@aol.com",
-	"title" : "Safety Inspector",
-	"objective" : "To be happy.",
-	"aboutme" : "I love beer, doughnuts, and all things fried.",
-	"social" : [
-		{
-			"link" : "http://www.linkedin.com/in/homerjsimpson",
-			"name" : "LinkedIn"
-		},
-		{
-			"link" : "https://twitter.com/HomerJSimpson",
-			"name" : "twitter"
-		},
-		{
-			"link" : "https://github.com/bittersweetryan/jsonmue",
-			"name" : "this.source"
-		}
-	],
+	"name" : "Muhammad Irfan",
+	"contact" : "irfan@rubyh.co",
+	"title" : "Software Engineer",
+	"aboutme" : "A Lifelong learner. Love technologies and motivated to provide solutions to challenging problems.",
 	"skills" : [
-		"Eating",
-		"Sleeping",
-		"Bowling"
+		"JavaScript",
+		"Java",
+		"R",
+		"Python",
+		"HTML5",
+		"SVG"
 	],
 	"frameworks" : [
-		"D'oh! What's a framework?"
+		"MEAN Stack",
+		"RxJS",
+		"Socket.io"
 	],
 	"projects" : [
 		{
-			"name" : "Boxcar Racer",
-			"technologies" : "wood, and plastic",
-			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+			"name" : "DBS Bank Indonesia Learning Centre",
+			"technologies" : "Android, AngularJS, HTML5",
+			"description" : "Developed a mobile application based learning centre for DBS Bank Indonesia."
+		},{
+			"name": "DBS Bank Indonesia Mini Server",
+			"technologies": "MEAN Stack, HTML5",
+			"description": "Developed complementary application for Learning Centre application above." 
+		},{
+			"name": "DBS Bank Indonesia Event Management",
+			"technologies": "MEAN Stack, HTML5, Socket.io",
+			"description": "Developed event management system for DBS Bank Indonesia."
 		}
 	],
 	"experience" : [
 		{
-			"company" : "Springfield Nuclear",
-			"link" : "",
-			"title" : "Safety Inspector",
-			"startDate" : "1989",
+			"company" : "Rubyh",
+			"link" : "www.rubyh.co",
+			"title" : "Software Engineer",
+			"startDate" : "2015",
 			"endDate" : "Present",
-			"responsibilities" : "Build high quality web applications using JavaScript, Java, ColdFusion for our clients. I also evaluate and educate the development team on new techniques and technologies. High-level application design including technologies, frameworks, and coding practices.",
-			"achievements" : "Introduced unit testing, continuous integration, source control, and development best practices to the team.  Started the Lunch and Learn program where team members teach each other new technologies and techniques. Lead development teams of up to 5 developers on profitable development projects."
-		}
-	],
-	"speaking" : [ 
-		{
-			"title" : "Debate for Garbage Commission",
-			"location" : "Springfield Townhall",
-			"link" : "http://textiles.online.ncsu.edu/online/SilverlightPlayer/Default.aspx?peid=02c7fe6174654f96b78a6194d3dbbe9d1d"
+			"responsibilities" : "TBC",
+			"achievements" : "TBC"
 		}
 	],
 	"education" : [
 		{
-			"school" : "Springfield University",
-			"startDate" : "1993",
-			"endDate" : "1993",
-			"program" : "Nuclear Physics",
+			"school" : "Universitas Indonesia",
+			"startDate" : "2009",
+			"endDate" : "2013",
+			"program" : "Computer Science",
 			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
 		}
 	]
