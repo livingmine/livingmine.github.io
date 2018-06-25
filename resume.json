@@ -1,34 +1,56 @@
 {
 	"name" : "Muhammad Irfan",
 	"contact" : "irfan@rubyh.co",
-	"title" : "Software Engineer",
+	"title" : "Lead Engineer",
 	"aboutme" : "A Lifelong learner. Love technologies and motivated to provide solutions to challenging problems.",
 	"skills" : [
 		"JavaScript",
 		"Java",
+		"Ruby",
 		"R",
 		"Python",
 		"HTML5",
 		"SVG"
 	],
 	"frameworks" : [
+		"React",
+		"Ruby on Rails",
+		"Flask",
+		"Serverless",
+		"Odoo",
 		"MEAN Stack",
 		"RxJS",
 		"Socket.io"
 	],
 	"projects" : [
 		{
+			"name" : "Akseleran Front End Revamp (under development)",
+			"technologies" : "React JS, Styled Components, Redux",
+			"description" : "Architect the application structure, i.e. the data management and application routing, etc."
+		},
+		{
+			"name" : "Akseleran Back End",
+			"technologies" : "Flask, Flask-Restful, FlaskAPISpec",
+			"description" : "Architect and research on modular backend development using flask as microframework."
+		},
+		{
+			"name" : "Kalibrr Middleware",
+			"technologies" : "AWS Lambda, AWS SES, AWS SQS",
+			"description" : "Connect to third party data services to send/receive data and transforms them to needs."
+		},
+		{
+			"name" : "ONNA ERP",
+			"technologies" : "Odoo, Python",
+			"description" : "Customize Odoo based on client's business processes and other mics. requirements."
+		},
+		{
 			"name" : "DBS Bank Indonesia Learning Centre",
 			"technologies" : "Android, AngularJS, HTML5",
-			"description" : "Developed a mobile application based learning centre for DBS Bank Indonesia."
+			"description" : "Develop a mobile application based learning centre for DBS Bank Indonesia."
 		},{
 			"name": "DBS Bank Indonesia Mini Server",
 			"technologies": "MEAN Stack, HTML5",
-			"description": "Developed complementary application for Learning Centre application above." 
-		},{
-			"name": "DBS Bank Indonesia Event Management",
-			"technologies": "MEAN Stack, HTML5, Socket.io",
-			"description": "Developed event management system for DBS Bank Indonesia."
+			"description": "Develop complementary application for Learning Centre application above." 
 		}
 	],
 	"experience" : [
@@ -38,8 +60,7 @@
 			"title" : "Software Engineer",
 			"startDate" : "2015",
 			"endDate" : "Present",
-			"responsibilities" : "TBC",
-			"achievements" : "TBC"
+			"responsibilities" : "Lead Software Engineers in solving problems"
 		}
 	],
 	"education" : [
