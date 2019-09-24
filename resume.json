@@ -1,7 +1,7 @@
 {
 	"name" : "Muhammad Irfan",
-	"contact" : "irfan@rubyh.co",
-	"title" : "Lead Engineer",
+	"contact" : "irfan@moodah.id",
+	"title" : "CTO",
 	"aboutme" : "A Lifelong learner. Love technologies and motivated to provide solutions to challenging problems.",
 	"skills" : [
 		"JavaScript",
@@ -24,7 +24,7 @@
 	],
 	"projects" : [
 		{
-			"name" : "Akseleran Front End Revamp (under development)",
+			"name" : "Akseleran Front End Revamp",
 			"technologies" : "React JS, Styled Components, Redux",
 			"description" : "Architect the application structure, i.e. the data management and application routing, etc."
 		},
@@ -55,11 +55,19 @@
 	],
 	"experience" : [
 		{
+			"company" : "Moodah.id",
+			"link" : "www.moodah.id",
+			"title" : "CTO",
+			"startDate" : "2018",
+			"endDate" : "Present",
+			"responsibilities" : "Architects from the ground up, the technology stacks used in moodah.id"
+		},
+		{
 			"company" : "Rubyh",
 			"link" : "www.rubyh.co",
 			"title" : "Software Engineer",
 			"startDate" : "2015",
-			"endDate" : "Present",
+			"endDate" : "2018",
 			"responsibilities" : "Lead Software Engineers in solving problems"
 		}
 	],
@@ -69,7 +77,6 @@
 			"startDate" : "2009",
 			"endDate" : "2013",
 			"program" : "Computer Science",
-			"achievements" : "Ran over dean with car, kidnapped Sir Oinks-a-lot."
 		}
 	]
 }
